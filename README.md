@@ -1,5 +1,7 @@
-### Hi there 👋
+### Olá Professor!! 👋
 
+Meu nome é Bruno, sou um rapaz de 19 anos e trabalho como auxiliar de alguns engenheiros. Gosto de ler, aprender coisas novas e praticar alguns esportes.
+Vim para a Fatec para tentar tirar o máximo proveito do conhecimento das pessoas ao meu redor e aprender tudo que puder. Espero que tenhamos boas aulas.
 <!--
 **brunojohannn/brunojohannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
